@@ -1,4 +1,3 @@
 # Email-Server-and-Client
-# This a program I built under the guidance of my high school computer science teacher.
-# I want to say a big thank you to him.
 # Through the project, I have a well understanding of object-oriented programming and how data is transfered by using TCP/IP protocol.
+# Distributed system is implemented in this design.
